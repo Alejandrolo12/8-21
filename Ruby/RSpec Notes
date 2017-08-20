@@ -1,0 +1,12 @@
+
+Competencies
+
+RSpec is a testing suite for ruby that matches ruby code to expected behavior
+Uses different matchers for different logic to execute Test Driven Development
+Run in the terminal for your own “Learn” suite
+Typically the tests are written first as a blueprint for actual development code
+
+Applications
+
+Write your own tests for challenges
+Understand and recognize different rspec matchers
