@@ -1,10 +1,10 @@
 # 8-21
 
-Today's topics:
+## Today's topics:
 
 Enumerables and RSpec
 
-Next time:
+## Next time:
 
 http://rubylearning.com/satishtalim/ruby_inheritance.html
 
